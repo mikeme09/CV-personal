@@ -1,0 +1,88 @@
+body {
+   margin: 0;
+   text-align: center;
+   font-family: 'Montserrat', sans-serif;
+   font-weight: bold;
+   background-color: #e3fdfd;
+}
+
+h1{
+   font-family: 'Sacramento', cursive;
+   margin: 2.6rem auto 0 auto;
+   font-size: 5.625rem; /* 90px/16px = 562.5% || 1em == 16px where 16px == 100% */
+   line-height: 2;
+}
+
+h2 {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 2.5rem;
+}
+
+h1, h2, h3 {
+   color: #71c9ce;
+}
+
+hr {
+   border-style: dotted;
+   border-width: 10px;
+   border-bottom: none;
+   color: #a6e3e9;
+   width: 60px;
+}
+
+.footer-link {
+   color: #a6e3e9;
+}
+
+.programmer {
+   font-weight: normal;
+   line-height: 2;
+}
+
+.profile {
+   margin-bottom: 40px;
+}
+
+.skill-row {
+   width: 50%;
+   margin: 90px auto 90px auto;
+   text-align: left;
+   line-height: 2;
+}
+
+.logical-thinking {
+   width: 9.3rem;
+   float: left;
+   margin-right: 30px;
+}
+
+.chillies {
+   width: 9.3rem;
+   float: right;
+   margin-left: 30px;
+}
+
+.top-container {
+   position: relative;
+   padding-top: 10px;
+   background-color: #cbf1f5;
+}
+
+.top-cloud {
+   position: absolute;
+   top: 50px;
+   right: 500px;
+}
+
+.bottom-cloud {
+   position: absolute;
+   top: 200px;
+   left: 500px;
+}
+.middle-container {
+   padding-top: 30px;
+}
+
+.boy {
+   height: 9.3rem;
+}
